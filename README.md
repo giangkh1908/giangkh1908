@@ -1,7 +1,10 @@
 # Hi 👋, I'm Kim Hong Giang
 
-### Developer
+### AI Engineer | Backend Developer
 
+Passionate about building production-ready AI applications powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents.
+
+I enjoy designing scalable AI systems that combine modern backend engineering with machine learning infrastructure, focusing on reliability, observability, and real-world deployment.
 
 - 📫 How to reach me **giang.kim.dev@gmail.com**
 
